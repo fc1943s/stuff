@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "git.enabled": false,
+    "vsicons.presets.angular": true,
+    "files.exclude": {
+        "**/output": true
+    },
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "window.zoomLevel": 0,
+    "vsicons.dontShowNewVersionMessage": true,
+    "vsicons.projectDetection.autoReload": true,
+    "editor.fontSize": 11,
+    "editor.fontFamily": "Consolas",
+    "workbench.sideBar.location": "right",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/dist": true
+    },
+    "search.useIgnoreFiles": true,
+    "search.useIgnoreFilesByDefault": true
+}
