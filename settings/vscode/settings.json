@@ -20,5 +20,6 @@
         "**/dist": true
     },
     "search.useIgnoreFiles": true,
-    "search.useIgnoreFilesByDefault": true
+    "search.useIgnoreFilesByDefault": true,
+    "extensions.ignoreRecommendations": false
 }
